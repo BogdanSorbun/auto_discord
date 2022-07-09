@@ -1,7 +1,5 @@
 import requests
 import json
-import discord
-from discord.ext.commands import Bot
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver import ActionChains
